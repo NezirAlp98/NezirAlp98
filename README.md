@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋 I'm Nezir</h1>
+<h3 align="center">Electrical electronic engineer from Kayseri/Turkey</h3>
 
 <!--
 **NezirAlp98/NezirAlp98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NezirAlp98" alt="NezirAlp98" /></a> </p>
+
+<p align="center">
+	<a href="https://github.com/NezirAlp98">
+		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=NezirAlp98&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true" alt="NezirAlp98"/>
+		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NezirAlp98&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="NezirAlp98"/>
+	</a>
+</p>
