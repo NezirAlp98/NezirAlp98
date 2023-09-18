@@ -1,7 +1,29 @@
-<h1 align="center">Hi 👋 I'm Nezir</h1>
-<h3 align="center">Electrical electronic engineer from Kayseri/Turkey</h3>
+### Heyy Coder Friends 👋
 
-<!--
+
+## 📌 GitHub Stats And Top Languages
+
+<p float="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=NezirAlp98&show_icons=true&count_private=true&hide=contribs,issues" alt="NezirAlp98's github stats" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NezirAlp98&layout=compact&hide=html,css" alt="My Top Langs" />
+</p>
+
+
+
+## 📫 How to Reach Me
+
+
+[![Linkedin Badge](https://img.shields.io/badge/neziralparslan-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/neziralparslan/)
+
+## ⚡ Fun Fact
+
+I love coding and electronic ⚡⚡
+
+I created software projects. Such as python and C#. I am coding MVC projects about e-trade system. It contains C# and cshtml. 
+In python I am coding about artificial intelligence. Such as deep learning and machine learnnig. I am trying to improve using tensorflow,keras and sklearn libraries.
+
+
+
 **NezirAlp98/NezirAlp98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,11 +37,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NezirAlp98" alt="NezirAlp98" /></a> </p>
-
-<p align="center">
-	<a href="https://github.com/NezirAlp98">
-		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=NezirAlp98&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true" alt="NezirAlp98"/>
-		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NezirAlp98&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="NezirAlp98"/>
-	</a>
-</p>
